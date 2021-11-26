@@ -1,1 +1,1 @@
-# Prevendo preço de ações B3
+# Prevendo preços da ação CVCB3
